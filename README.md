@@ -1,1 +1,1 @@
-This is an ait traffic management system using operating system.
+This is an air traffic management system using operating system.
